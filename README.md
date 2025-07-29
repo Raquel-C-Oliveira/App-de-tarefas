@@ -1,2 +1,2 @@
-# PequenosProgramasJava
-Pequenos programas desenvolvidos durante o estudo de Java
+# Aplicativo de tarefas
+Aplicativo simples para inserção de tarefas.
