@@ -1,2 +1,3 @@
-# Aplicativo de tarefas
-Aplicativo simples para inserção de tarefas.
+# HTML_CSS_JavaScript
+ 
+Aplicativo simples de inserção de tarefas
